@@ -41,7 +41,7 @@ socket.on('serverSays', function (message, bool) {
 		document.getElementById('messages').appendChild(msgDiv)
 	}
 })
-hjfhg
+
 
 function sendMessage() {
 
